@@ -12,7 +12,7 @@ This project is derived from [channingbreeze/games](https://github.com/channingb
 
 1. Clone this repository
 ```bash
-git clone [current repository address]
+git clone https://github.com/tomcomtang/runner-game
 ```
 
 2. Open the `index.html` file in your browser to start the game
@@ -21,9 +21,9 @@ git clone [current repository address]
 
 You can quickly deploy this template to EdgeOne Pages with just one click:
 
-[![Deploy to EdgeOne](https://cdnstatic.tencentcs.com/edgeone/pages/deploy.svg)](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/anime-blog-demo1&output-directory=./public&build-command=npm%20run%20build)
+[![Deploy to EdgeOne](https://cdnstatic.tencentcs.com/edgeone/pages/deploy.svg)](https://edgeone.ai/pages/new?template=https://github.com/tomcomtang/runner-game&source-tomchild)
 
-[More Templates](https://edgeone.ai/pages/templates)
+[More Templates](https://edgeone.ai/pages/games-unblocked?&source-tomchild)
 
 ## Tech Stack
 
