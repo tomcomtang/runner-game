@@ -23,10 +23,6 @@ You can quickly deploy this template to EdgeOne Pages with just one click:
 - Phaser.js
 - jQuery
 
-## Game Instructions
-
-[Add specific game instructions here]
-
 ## Development Notes
 
 This project is developed using the Phaser.js game framework. Main dependencies include:
