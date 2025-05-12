@@ -8,16 +8,7 @@ This project is derived from [channingbreeze/games](https://github.com/channingb
 
 ## Quick Start
 
-### Local Development
-
-1. Clone this repository
-```bash
-git clone https://github.com/tomcomtang/runner-game
-```
-
-2. Open the `index.html` file in your browser to start the game
-
-### 🚀 Deploy
+### 🚀 Online Experience
 
 You can quickly deploy this template to EdgeOne Pages with just one click:
 
